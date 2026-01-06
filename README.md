@@ -94,11 +94,10 @@ I prioritize clarity, structure, and responsibility in software development, aim
 
 - Progress consistently from internship to junior role
 
-
+```
 Software quality is built through discipline, consistency,
 and respect for long-term maintainability.
 
 <p align="center"> <i>Focused on fundamentals. Committed to growth.</i> </p> ```
 
 
-Continuous learning with practical application
