@@ -73,16 +73,32 @@ I prioritize clarity, structure, and responsibility in software development, aim
 
 ## Currently Developing Skills
 
-Spring Security (authentication & authorization)
+- Spring Security (authentication & authorization)
 
-JWT-based security flows
+- JWT-based security flows
 
-Automated testing (JUnit, Mockito)
+- Automated testing (JUnit, Mockito)
 
-Clean Architecture principles
+- Clean Architecture principles
 
-Backend best practices for scalability
+- Backend best practices for scalability
 
+
+## Career Objectives
+
+- Build a solid foundation as a Java Backend Engineer
+
+- Contribute to real-world systems in collaborative environments
+
+- Grow through structured challenges and technical mentorship
+
+- Progress consistently from internship to junior role
+
+
+Software quality is built through discipline, consistency,
+and respect for long-term maintainability.
+
+<p align="center"> <i>Focused on fundamentals. Committed to growth.</i> </p> ```
 
 
 Continuous learning with practical application
