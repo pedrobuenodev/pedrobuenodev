@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Back-End Software Developer</strong><br/>
-  Java • Spring Boot • RESTful APIs
+  Java • Spring Boot • REST APIs • N8N • MySQL • AI Automation
 </p>
 
 <p align="center">
