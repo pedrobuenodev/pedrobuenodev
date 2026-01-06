@@ -52,28 +52,26 @@ I prioritize clarity, structure, and responsibility in software development, aim
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,docker,git,github,postman,linux" />
 </p>
 
-Backend
+## Backend
 
-Java (Object-Oriented Programming)
+- Java (Object-Oriented Programming)
 
-Spring Boot (REST APIs, validation, persistence)
+- Spring Boot (REST APIs, validation, persistence)
 
-JPA / Hibernate
+- JPA / Hibernate
 
-Relational databases (MySQL)
+- Relational databases (MySQL)
 
-Tools & Practices
+## Tools & Practices
 
-Git & GitHub (version control)
+- Git & GitHub (version control)
 
-Docker (environment consistency)
+- Docker (environment consistency)
 
-Maven
-
-API testing with Postman
+- API testing with Postman
 
 
-Currently Developing Skills
+## Currently Developing Skills
 
 Spring Security (authentication & authorization)
 
