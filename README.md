@@ -1,15 +1,15 @@
-<h1 align="center">Pedro Vinicius</h1>
+<h1 align="center">Pedro Bueno </h1>
 
 <p align="center">
-  <strong>Backend Software Developer</strong><br/>
+  <strong>Back-End Software Developer</strong><br/>
   Java • Spring Boot • RESTful APIs
 </p>
 
 <p align="center">
-  <a href="mailto:seuemail@gmail.com">
+  <a href="pedro.srft@hotmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINK">
+  <a href="linkedin.com/in/pedrobuenodev">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=pedrobuenodev&color=blueviolet" />
@@ -52,7 +52,38 @@ I prioritize clarity, structure, and responsibility in software development, aim
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,docker,git,github,postman,linux" />
 </p>
 
+Backend
 
+Java (Object-Oriented Programming)
+
+Spring Boot (REST APIs, validation, persistence)
+
+JPA / Hibernate
+
+Relational databases (MySQL)
+
+Tools & Practices
+
+Git & GitHub (version control)
+
+Docker (environment consistency)
+
+Maven
+
+API testing with Postman
+
+
+Currently Developing Skills
+
+Spring Security (authentication & authorization)
+
+JWT-based security flows
+
+Automated testing (JUnit, Mockito)
+
+Clean Architecture principles
+
+Backend best practices for scalability
 
 
 
