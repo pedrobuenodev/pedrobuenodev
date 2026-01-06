@@ -31,66 +31,29 @@ public class BackendDeveloper {
 }
 
 
-
 Backend-focused developer with strong interest in Java enterprise development, API design, and clean, maintainable codebases.
 
 I prioritize clarity, structure, and responsibility in software development, aiming to build systems that are easy to understand, evolve, and trust.
 
 
-Technical Approach
+## Technical Approach
 
-Clear separation of responsibilities
+- Clear separation of responsibilities
 
-Business rules treated as first-class citizens
+- Business rules treated as first-class citizens
 
-Predictable APIs and consistent error handling
+- Predictable APIs and consistent error handling
 
-Readability and maintainability over shortcuts
+- Readability and maintainability over shortcuts
+
+## Core Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,docker,git,github,postman,linux" />
+</p>
+
+
+
+
 
 Continuous learning with practical application
-
-
-Core Technologies
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,docker,git,github,postman,linux" /> </p>
-
-Backend
-
-Java (Object-Oriented Programming)
-
-Spring Boot (REST APIs, validation, persistence)
-
-JPA / Hibernate
-
-Relational databases (MySQL)
-
-Tools & Practices
-
-Git & GitHub (version control)
-
-Docker (environment consistency)
-
-Maven
-
-API testing with Postman
-
-Currently Developing Skills
-
-Spring Security (authentication & authorization)
-
-JWT-based security flows
-
-Automated testing (JUnit, Mockito)
-
-Clean Architecture principles
-
-Backend best practices for scalability
-
-Career Objectives
-
-Build a solid foundation as a Java Backend Engineer
-
-Contribute to real-world systems in collaborative environments
-
-Grow through structured challenges and technical mentorship
-
-Progress consistently from internship to junior role
