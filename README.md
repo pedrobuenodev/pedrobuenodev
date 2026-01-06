@@ -9,7 +9,7 @@
   <a href="pedro.srft@hotmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="linkedin.com/in/pedrobuenodev">
+  <a href="[linkedin.com/in/pedrobuenodev](https://www.linkedin.com/in/pedrobuenodev/)">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=pedrobuenodev&color=blueviolet" />
@@ -95,8 +95,7 @@ I prioritize clarity, structure, and responsibility in software development, aim
 - Progress consistently from internship to junior role
 
 
-Software quality is built through discipline, consistency,
-and respect for long-term maintainability.
+
 
 <p align="center"> <i>Focused on fundamentals. Committed to growth.</i> </p> 
 
