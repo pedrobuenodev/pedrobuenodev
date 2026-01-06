@@ -29,7 +29,7 @@ public class BackendDeveloper {
     private final String careerStage = "Intern / Junior";
 
 }
-
+```
 
 Backend-focused developer with strong interest in Java enterprise development, API design, and clean, maintainable codebases.
 
