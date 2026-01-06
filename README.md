@@ -1,16 +1,29 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">👋 Hey there, I'm Pedro Vinicius</h1>
+<h3 align="center">Java Backend Developer • Spring Boot • APIs REST</h3>
 
-<!--
-**pedrobuenodev/pedrobuenodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINK" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/SEU-USUARIO">
+    <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&color=blueviolet" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+```java
+public class PedroVinicius {
+
+    private final String role = "Backend Developer";
+    private final String mainStack = "Java + Spring Boot";
+    private final String focus = "APIs REST, Clean Code, Architecture";
+    private final String goal = "Backend Intern / Junior Developer";
+
+}
