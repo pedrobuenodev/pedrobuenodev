@@ -9,7 +9,7 @@
   <a href="pedro.srft@hotmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="[linkedin.com/in/pedrobuenodev](https://www.linkedin.com/in/pedrobuenodev/)">
+  <a href="https://www.linkedin.com/in/pedrobuenodev/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=pedrobuenodev&color=blueviolet" />
@@ -22,11 +22,11 @@
 ```java
 public class BackendDeveloper {
 
-    private final String name = "Pedro Vinicius";
+    private final String name = "Pedro Bueno";
     private final String role = "Backend Developer";
     private final String primaryStack = "Java & Spring Boot";
     private final String focus = "Business logic, APIs and system reliability";
-    private final String careerStage = "Intern / Junior";
+
 
 }
 ```
