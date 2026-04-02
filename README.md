@@ -1,7 +1,7 @@
 <h1 align="center">Pedro Bueno </h1>
 
 <p align="center">
-  <strong>Back-End Software Developer</strong><br/>
+  <strong>Software Developer</strong><br/>
   Java • Spring Boot • REST APIs • N8N • MySQL • AI Automation
 </p>
 
@@ -20,10 +20,10 @@
 ## Professional Summary
 
 ```java
-public class BackendDeveloper {
+public class SoftwareDeveloper {
 
     private final String name = "Pedro Bueno";
-    private final String role = "Backend Developer";
+    private final String role = "Software Developer";
     private final String primaryStack = "Java & Spring Boot";
     private final String focus = "Business logic, APIs and system reliability";
 
@@ -31,7 +31,7 @@ public class BackendDeveloper {
 }
 ```
 
-Backend-focused developer with strong interest in Java enterprise development, API design, and clean, maintainable codebases.
+Software-focused developer with strong interest in Java enterprise development, API design, and clean, maintainable codebases.
 
 I prioritize clarity, structure, and responsibility in software development, aiming to build systems that are easy to understand, evolve, and trust.
 
